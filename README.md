@@ -2,7 +2,7 @@
 
 A simple project to learn about Django.
 
-Navigate to /my_tennis_club and execute this command in the command prompt:
+Navigate to **/my_tennis_club** and execute this command in the command prompt:
 ```
 py manage.py runserver
 ```
